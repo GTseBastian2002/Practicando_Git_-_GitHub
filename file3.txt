@@ -1,5 +1,5 @@
-Este es el archivo "file3" [0]
+Este es el archivo "file3" [3]
 
 a
 
-...
+....
