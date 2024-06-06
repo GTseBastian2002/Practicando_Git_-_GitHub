@@ -1,5 +1,5 @@
-Aprendiendo a usar Git [2.0]
+Aprendiendo a usar Git [2]
 
 a
 
-...
+....
