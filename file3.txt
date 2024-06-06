@@ -1,5 +1,1 @@
-Este es el archivo "file3" [3]
-
-b
-
-...;
+linea con numero 3
