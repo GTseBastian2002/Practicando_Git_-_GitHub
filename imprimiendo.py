@@ -1,1 +1,1 @@
-print("Hola :D soy Sebas y este es un archivo py")
+print("Este es un archivo py que imprime este único mensaje :D")
